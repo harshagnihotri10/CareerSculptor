@@ -1,10 +1,4 @@
-/**
- * 
- */
-/**
- * @author Shahbaz
- *
- */
+
 module ResumeBuilder {
 	requires kernel;
 	requires layout;
