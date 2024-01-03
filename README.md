@@ -18,7 +18,7 @@ To get started with CareerSculptor, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CareerSculptor.git
+   git clone https://github.com/harshagnihotri10/CareerSculptor.git
    ```
 
 2. Open the project in your preferred Java IDE.
